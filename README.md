@@ -1,1 +1,6 @@
 # student-performance-predictor
+streamlit==1.66.1
+pandas
+numpy
+scikit-learn
+joblib
